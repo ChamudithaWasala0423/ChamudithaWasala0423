@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ChamudithaWasala0423
+- 👋 Hi, I’m Chamuditha Wasala
 - 👀 I’m interested in Web and Mobile Application Development
 - 🌱 I’m currently learning at the University of Sri Jayewardenepura
-- 📫 Currently I'm working GodOfFuture technologies 
 
 
 <!---
